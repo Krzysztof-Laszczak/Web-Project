@@ -1,0 +1,49 @@
+main {
+   width: 100%;
+   background-image: url(https://cdn.pixabay.com/photo/2015/05/07/21/59/blue-757260_960_720.jpg);
+   background-size: cover;
+}
+
+.h1 {
+   color: white;
+   letter-spacing: 2px;
+}
+
+.p {
+   color: white;
+}
+
+.img-fluid {
+   transition: all 0.3s ease-in-out;
+}
+
+.img-fluid:hover {
+   -webkit-transform: scale(0.85);
+   -ms-transform: scale(0.85);
+   transform: scale(0.85);
+}
+
+.social-icon {
+   font-size: 25px;
+}
+
+.facebook {
+   color: #3b5998;
+}
+
+.github {
+   color: black;
+}
+
+.twitter {
+   color: #00acee;
+}
+
+.instagram {
+   color: #eb0dc9;
+}
+
+.kontakt{
+   color: black;
+}
+
